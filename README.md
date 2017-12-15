@@ -1,4 +1,4 @@
-# hello-world
+# Generalized Residuals
 
 GENERALIZED RESIDUALS IN STATA
 
